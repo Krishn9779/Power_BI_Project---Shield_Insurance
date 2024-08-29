@@ -22,7 +22,7 @@ My task was to help Shield Insurance company in making data-driven decisions by 
 
 ✅ POL2005HEL Policy brought the maximum Revenue for the company.
 ## Links
-🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://app.powerbi.com/view?r=eyJrIjoiZDg5ZThmMzEtNzdkMS00MTRkLWEzYjYtZjEwOGIxOTA4YjZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://shorturl.at/2KNI2
 
 
 
