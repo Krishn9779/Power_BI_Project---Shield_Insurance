@@ -24,8 +24,4 @@ My task was to help Shield Insurance company in making data-driven decisions by 
 ## Links
 🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://shorturl.at/2KNI2
 
-
-
-🔗 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐋𝐢𝐧𝐤: 
-
 . Note - Data files were asked not to share online
