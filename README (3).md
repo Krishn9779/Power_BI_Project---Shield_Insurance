@@ -1,5 +1,6 @@
 
 ##  Data Analyst Internship Project - Shield Insurance
+![IMG_20240829_200435](https://github.com/user-attachments/assets/6cd5b8c6-3a1a-439e-a6ec-6739b599636c)
 ## 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
 My task was to help Shield Insurance company in making data-driven decisions by creating an interactive dashboard for easy insights and explain it through video presentation.
 ## 𝐑𝐞𝐩𝐨𝐫𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
